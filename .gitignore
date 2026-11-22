@@ -2,5 +2,4 @@
 venv/
 __pycache__/
 .streamlit/secrets.toml
-data/
 '@ | Set-Content -Encoding utf8 .gitignore
